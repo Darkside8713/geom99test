@@ -92,38 +92,6 @@ div.pic img {
   border-radius: 5px;
 }
 
-/* About Page */
-.team-member{
-  text-align: center;
-}
-.column{
-  float: left;
-  padding: 2%;
-  width: 29.33%;
-}
-.team-member:after{
-  clear: both;
-  content: "";
-  display: table;
-}
-@media screen and (max-width: 1200px) {
-  .column {
-    width: 100%;
-  }
-}
-.name{
-  font-weight: bold;
-}
-.profile-picture{
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
-}
-
-.title{
-  font-style: italic;
-}
-
 /* nav bar */
 body {
 	padding: 0;
