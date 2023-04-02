@@ -33,13 +33,13 @@ p {
     line-height: 1.5;
 }
 footer {
-    background-color: #203448;
+    background-color: #000000;
     position: absolute;
     text-align: center;
     width: 100%;
 }
 #footer {
-    color: white;
+    color: rbg (3, 255, 246);
     font-size: 0.8em;
 }
 
