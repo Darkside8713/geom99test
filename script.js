@@ -18,7 +18,7 @@ function topFunction() {
 /* Reused asset from A3Web Assignment - button function */ 
 
 function myButton() {
-  window.location.href = "https://grkis.github.io/A3Web/contact.html";
+  window.location.href = "https://darkside8713.github.io/geom99test/storymaps.html";
 }
 
 function SButton() {
