@@ -240,6 +240,11 @@ nav .icon-burger .line {
 		opacity: 0;
 	}
 }
+/* DROPDOWN MENU */
+
+.services {
+position: relative;
+}
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
