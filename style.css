@@ -220,11 +220,11 @@ display: block;
 /* end of nav bar*/		
 
 /*banner*/
-.container {
+.containerb {
 	position: relative;
 	margin-top: 100px;
 }
-.container img{
+.containerb img{
   display: block;
   width: 100%;
 }
