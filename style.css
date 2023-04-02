@@ -261,12 +261,12 @@ display: block;
 
 .nameid{
   font-size: 1.33rem;
-  color:#573DFC;
-  font-style: italic;
+  color:#ffffff;
+  font-style: bold;
 }
 
  .background1 {
-    background: white;
+    background: black;
  }
 
 .container {
@@ -333,8 +333,8 @@ display: block;
     padding: 1rem 3rem;
     font-size: 1rem;
     border: none;
-    color: #9137bb;
-    background: #000;
+    color: #03fff6;
+    background: #000000;
     cursor: pointer;
     border-radius: 50px;
  }
