@@ -57,9 +57,9 @@ footer {
     margin-right: auto;
   }
 
-/* 
+/* May or may not use
   header{
-    background-image: url("img/Toronto1.jpg");
+    background-image: ;
     background-position: center center;
     display: block;
     margin-left: auto;
@@ -113,7 +113,7 @@ nav .links li {
 
 nav .links a {
 	display:block;
-	padding: .5em; /*was 1em*/
+	padding: .5em;
 	font-size: 16px;
 	font-weight: bold;
 	color: #03fff6;
@@ -143,7 +143,8 @@ nav .icon-burger .line {
 	transition: all .3s ease-in-out;
   display: block;
 }
-	
+
+/*
 @media screen and (max-width: 1200px) {
 	nav .logo {
 		float: none;
@@ -185,6 +186,9 @@ nav .icon-burger .line {
 		opacity: 0;
 	}
 }
+
+*/
+
 /* DROPDOWN MENU */
 
 .services {
