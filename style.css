@@ -1,4 +1,3 @@
-/* style.css */
 /* Author: Will Inglis, Grace Kim, Esther Kim */
 /* Date Created: April 1st, 2023 */
 html, body {
@@ -144,7 +143,8 @@ nav .icon-burger .line {
   display: block;
 }
 
-/*
+/*Media query will give a tailored experience to different devices (commenting out for now)
+
 @media screen and (max-width: 1200px) {
 	nav .logo {
 		float: none;
