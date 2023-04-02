@@ -131,14 +131,14 @@ body {
 }
 
 nav {
-	position: fixed; /*can make it fixed, but will cover the banner*/
+	position: fixed; 
 	z-index: 10;
 	left: 0;
 	right: 0;
 	top: 0;
 	padding: 0 5%;
 	height: 100px;
-	background-color: rgb(1,42,74);
+	background-color: rgb(0,0,0);
 }
 
 nav .logo {
@@ -148,7 +148,7 @@ nav .logo {
 	display: flex;
 	align-items: center;
 	font-size: 24px;
-	color: #fff;
+	color: #03fff6;
 }
 
 nav .links {
@@ -171,7 +171,7 @@ nav .links a {
 	padding: .5em; /*was 1em*/
 	font-size: 16px;
 	font-weight: bold;
-	color: #ffff00;
+	color: #03fff6;
 	text-decoration: none;
 }
 
